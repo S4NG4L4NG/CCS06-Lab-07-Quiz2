@@ -3,7 +3,8 @@
 require "vendor/autoload.php";
 
 // 1. What does this function session_start() do to the application?
-// _____________________________________________________________________
+// The session_start() function provides a session to begin and an information to pass from pages to pages in this very application we can see that on action in our answers and our user information.
+
 
 session_start();
 session_destroy();
