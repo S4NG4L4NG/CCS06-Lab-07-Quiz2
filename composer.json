@@ -1,0 +1,16 @@
+{
+    "name": "app/php",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Leandro Sangalang",
+            "email": "sangalang.leandro@auf.edu.ph"
+        }
+    ],
+    "require": {}
+}

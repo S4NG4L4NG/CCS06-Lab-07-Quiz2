@@ -1,0 +1,15 @@
+Complete Name Leandro
+Email: leansangalang@ymail.com
+birthdate: 2002-05-13
+Score: 6 of 10
+Answers:
+1.c (correct)
+2.c (incorrect)
+3.c (incorrect)
+4.c (incorrect)
+5.c (correct)
+6.c (incorrect)
+7.c (correct)
+8.c (correct)
+9.c (correct)
+10.c (correct)
