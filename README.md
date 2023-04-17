@@ -1,16 +1,1 @@
 # CCS06-Lab-7-Quiz-2
-# CCS06-Lab-7-Quiz-2
-# CCS06-Lab-7-Quiz-2
-# CCS06-Lab-7-Quiz-2
-# CCS06-Lab-7-Quiz-2
-# CCS06-Lab-7-Quiz-2
-# CCS06-Lab-07-Quiz-2
-# CCS06-Lab-07-Quiz-2
-# CCS06-Lab-07-Quiz-2
-# CCS06-Lab-07-Quiz-2
-# CCS06-Lab-07-Quiz-2
-# CCS06-Lab-07-Quiz-2
-# CCS06-Lab-07-Quiz-2
-# CCS06-Lab-07-Quiz-2
-# CCS06-Lab-07-Quiz-2
-# CCS06-Lab-07-Quiz-2
